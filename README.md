@@ -1,0 +1,1 @@
+Edmund is a bot I use in my private Discord server. I'm not the best at Python, but maybe you can find something useful here, or not. 
